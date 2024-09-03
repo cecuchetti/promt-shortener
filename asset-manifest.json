@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.css": "/promt-shortener/static/css/main.d2535957.chunk.css",
-    "main.js": "/promt-shortener/static/js/main.26948cee.chunk.js",
-    "main.js.map": "/promt-shortener/static/js/main.26948cee.chunk.js.map",
-    "runtime~main.js": "/promt-shortener/static/js/runtime~main.16c8ab7e.js",
-    "runtime~main.js.map": "/promt-shortener/static/js/runtime~main.16c8ab7e.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/promt-shortener/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/promt-shortener/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/promt-shortener/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/promt-shortener/static/js/3.a29efab2.chunk.js.map",
+    "main.css": "/promt-shortener/static/css/main.b154f21a.css",
+    "main.js": "/promt-shortener/static/js/main.039927df.js",
     "index.html": "/promt-shortener/index.html",
-    "precache-manifest.d8efcc624f4a5918dd22baccbafe75d1.js": "/promt-shortener/precache-manifest.d8efcc624f4a5918dd22baccbafe75d1.js",
-    "service-worker.js": "/promt-shortener/service-worker.js",
-    "static/css/main.d2535957.chunk.css.map": "/promt-shortener/static/css/main.d2535957.chunk.css.map",
-    "static/media/logo.svg": "/promt-shortener/static/media/logo.06e73328.svg"
-  }
+    "main.b154f21a.css.map": "/promt-shortener/static/css/main.b154f21a.css.map",
+    "main.039927df.js.map": "/promt-shortener/static/js/main.039927df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b154f21a.css",
+    "static/js/main.039927df.js"
+  ]
 }
