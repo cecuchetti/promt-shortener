@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/promt-shortener/static/css/main.fee1487c.css",
+    "main.js": "/promt-shortener/static/js/main.e151454b.js",
+    "static/js/453.ddcbab72.chunk.js": "/promt-shortener/static/js/453.ddcbab72.chunk.js",
+    "static/media/logo.svg": "/promt-shortener/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/promt-shortener/index.html",
+    "main.fee1487c.css.map": "/promt-shortener/static/css/main.fee1487c.css.map",
+    "main.e151454b.js.map": "/promt-shortener/static/js/main.e151454b.js.map",
+    "453.ddcbab72.chunk.js.map": "/promt-shortener/static/js/453.ddcbab72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee1487c.css",
+    "static/js/main.e151454b.js"
+  ]
+}
